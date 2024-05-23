@@ -1,0 +1,7 @@
+Extra components 
+
+1. Male header pins for GPIO and SWDIO
+2. CI2012AR10K smt inductor or equivalent for L4: 250mA 100nH ±10% 300mO 0805
+3. Antennas: Lora, GPS
+4. ST LINK_V2 as this: 
+https://www.aliexpress.com/item/1005005273159580.html?spm=a2g0o.productlist.main.1.5460WZvMWZvMXe&algo_pvid=5e8e83e3-ee48-4096-9153-dc7f57a4041a&algo_exp_id=5e8e83e3-ee48-4096-9153-dc7f57a4041a-0&pdp_npi=4%40dis%21KES%21177.00%21145.00%21%21%211.26%211.03%21%402103209b17110816048656742e71e8%2112000032440955298%21sea%21KE%21902330123%21AC&curPageLogUid=zP2lnozxnaIR&utparam-url=scene%3Asearch%7Cquery_from%3A
